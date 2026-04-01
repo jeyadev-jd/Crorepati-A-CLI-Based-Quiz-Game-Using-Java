@@ -11,7 +11,7 @@ This project involves the development of a CLI-based quiz game using Java, inspi
 ## Team Members
 - Jeyadev
 - Varun
-- Chaithanaya
+- Chaitanya
 
 ## How to Run
 Compile the code from the `src` directory and run the main class:
